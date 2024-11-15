@@ -1,0 +1,43 @@
+.padding-TB {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.Feedback-section {
+    position: relative;
+    background-color: #f3f6fd;
+}
+
+.Feedback-wrap.style3 {
+    position: relative;
+    margin-top: 60px;
+}
+
+.section-title2 {
+    position: relative;
+    z-index: 8;
+}
+
+.section-title2 .subtitle6 {
+    display: flex;
+    align-items: center;
+    color: #384BFF;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.section-title2 .title4 {
+    color: #0F0D1D;
+    font-family: "Rajdhani", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -0.96px;
+    text-transform: capitalize;
+}

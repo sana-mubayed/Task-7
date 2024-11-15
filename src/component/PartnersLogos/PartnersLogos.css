@@ -1,0 +1,21 @@
+.logo {
+    width: 262.8px;
+    margin-right: 24px;
+}
+
+.brand-slider-container {
+    padding: 40px 0;
+    border-bottom: 1px solid #D4DCFF;
+}
+
+.brands-section {
+    display: flex;
+    flex-direction: row;
+}
+
+@media ((max-width: 1024px)) {
+    .none {
+        display: none;
+    }
+
+}

@@ -1,0 +1,51 @@
+.service-card {
+    padding: 30px;
+    border: 1px solid #D4DCFF;
+    background: #F3F7FB;
+    border-radius: 30px;
+}
+
+.service-card .icon {
+    border-radius: 8px;
+    border: 1px solid #D4DCFF;
+    background: transparent;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.service-card .icon img {
+    width: 40px;
+    height: 40px;
+}
+
+.service-card.style1 .body p {
+    color: #445375;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: -2px;
+    margin-bottom: 25px;
+}
+
+.service-card .body h3 {
+    letter-spacing: -2px;
+}
+
+.service-card .body .link-btn {
+    padding: 12px 30px;
+    border-radius: 24px;
+}
+
+.link-btn {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 4px;
+    background: #F3F7FB;
+    color: #0F0D1D;
+    border: 1px solid #D4DCFF;
+}

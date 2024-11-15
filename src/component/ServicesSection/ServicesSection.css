@@ -1,0 +1,58 @@
+.ServicesSection {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.title-group {
+    display: grid;
+    align-items: end;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-between;
+}
+
+.section-title .subtitle2 span {
+    margin: 0 10px;
+}
+
+.section-title .subtitle2 {
+    display: flex;
+    align-items: center;
+    color: #384BFF;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+
+.icon-blue {
+    color: #384BFF;
+}
+
+.section-title .title2 {
+    color: #0F0D1D;
+    font-family: "Rajdhani", sans-serif;
+    font-size: 63px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -0.96px;
+}
+
+.arrow-btn .style1 {
+    width: 52px;
+    height: 52px;
+    line-height: 35px;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    background: transparent;
+    box-shadow: 0px 4px 25px 0px rgba(56, 75, 255, 0.08);
+}
+
+.arrow-btn .style1.slider-next {
+    margin-left: 5px;
+    background: #384BFF;
+    color: #fff;
+}

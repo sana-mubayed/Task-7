@@ -1,0 +1,32 @@
+.cta-wrap.style2 .shape1_4 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.cta-wrap.style2 .cta-thumb {
+    position: absolute;
+    bottom: 0;
+    left: 73px;
+}
+
+.cta-wrap.style2 .cta-title {
+    max-width: 356px;
+    margin-left: 420px;
+    margin-right: 210px;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 900;
+    font-size: 28px;
+}
+
+.cta-wrap.style2 {
+    position: relative;
+    padding: 64px 73px 62px;
+    background: #384BFF;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 47px;
+    z-index: 9;
+}

@@ -1,0 +1,39 @@
+.HeroContact {
+    background-image: url('./../../assets/images/breadcrumb.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.border-shape {
+    position: absolute;
+    top: 20px;
+    left: 0;
+}
+
+.line-shape {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+.ContactContent h1 {
+    color:#fff;
+    font-size: 65px;
+}
+.ContactContent {
+    position: relative;
+    padding: 180px 0;
+    text-align: center;
+    z-index: 9;
+}
+.list-items4 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 20px;
+    list-style: none;
+    gap: 10px;
+    justify-content: center;
+    color: #fff;
+}
